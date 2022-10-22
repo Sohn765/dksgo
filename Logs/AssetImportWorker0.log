@@ -1,0 +1,365 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.5f1 (8095aa901b9b) revision 8426922'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.906; Version 2009; 64bit' Language: 'ko' Physical Memory: 8108 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.5f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/user/Documents/GitHub/mian_project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+5856
+Successfully changed project path to: C:/Users/user/Documents/GitHub/mian_project
+C:/Users/user/Documents/GitHub/mian_project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 63.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.5f1 (8095aa901b9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/user/Documents/GitHub/mian_project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 530 (ID=0x1912)
+    Vendor:   
+    VRAM:     4054 MB
+    Driver:   27.20.100.9168
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56140
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000992 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 62.07 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.495 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000953 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 68.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.971 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.5 MB.
+System memory in use after: 87.5 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2252.
+Total: 2.305400 ms (FindLiveObjects: 0.182300 ms CreateObjectMapping: 0.088600 ms MarkObjects: 1.880100 ms  DeleteObjects: 0.153600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/GuttyKreum_Characterpackv5/RPGMakerVXAce/GK_Actor_3.png
+  artifactKey: Guid(5b3e5175fe708234badd3b02f6b77a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_Characterpackv5/RPGMakerVXAce/GK_Actor_3.png using Guid(5b3e5175fe708234badd3b02f6b77a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '547129d0099e51e88215037e843d886f') in 0.090672 seconds
+  Import took 0.093913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/GuttyKreum_Characterpackv5/RPGMakerVXAce/GK_Actor_2.png
+  artifactKey: Guid(1f433632cfae18648bde010c8e7aabc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_Characterpackv5/RPGMakerVXAce/GK_Actor_2.png using Guid(1f433632cfae18648bde010c8e7aabc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff7eb32cfc34263b12bdace1ef4ecfdf') in 0.017084 seconds
+  Import took 0.021513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/GuttyKreum_Characterpackv5/RPGMakerVXAce/GK_Actor_1.png
+  artifactKey: Guid(709f44a48ac35064dab697565488232e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_Characterpackv5/RPGMakerVXAce/GK_Actor_1.png using Guid(709f44a48ac35064dab697565488232e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f33b4d8a0c141b4b8c01d361e2ff150f') in 0.021484 seconds
+  Import took 0.027090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.392007 seconds.
+  path: Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters
+  artifactKey: Guid(831fdc4fb2e87fe439e78ef7005870a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters using Guid(831fdc4fb2e87fe439e78ef7005870a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fb636623b0cb6eaef8da5ad336761b9') in 0.008403 seconds
+  Import took 0.012581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.901927 seconds.
+  path: Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters/FemaleBaker/Frames/Idle/Materials
+  artifactKey: Guid(028a0e81a69e07f4bb280b634e6a5109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters/FemaleBaker/Frames/Idle/Materials using Guid(028a0e81a69e07f4bb280b634e6a5109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50221a84b082714293c8963f7955f6da') in 0.006996 seconds
+  Import took 0.011477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001175 seconds.
+  path: Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters/FemaleBaker/Frames/Idle/Materials
+  artifactKey: Guid(028a0e81a69e07f4bb280b634e6a5109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters/FemaleBaker/Frames/Idle/Materials using Guid(028a0e81a69e07f4bb280b634e6a5109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50221a84b082714293c8963f7955f6da') in 0.002800 seconds
+  Import took 0.007141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1342.168899 seconds.
+  path: Assets/GuttyKreum_JapaneseSchoolv5/Tiles/GK_JS_Tiles_223.png
+  artifactKey: Guid(ee974c3af0fa15144a1a8901299042da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_JapaneseSchoolv5/Tiles/GK_JS_Tiles_223.png using Guid(ee974c3af0fa15144a1a8901299042da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edfa6a25368153336bf426e13ebbc2f8') in 0.013619 seconds
+  Import took 0.019536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/GuttyKreum_JapaneseSchoolv5/Tiles/GK_JS_Tiles_225.png
+  artifactKey: Guid(35d84a7c38941124db3f987725320307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_JapaneseSchoolv5/Tiles/GK_JS_Tiles_225.png using Guid(35d84a7c38941124db3f987725320307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b9617f7fd4cc2340f74a6348b35407f') in 0.011145 seconds
+  Import took 0.014184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/GuttyKreum_JapaneseSchoolv5/Tiles/GK_JS_Tiles_224.png
+  artifactKey: Guid(a4ee776a6040afe48893cb2ad36ddcef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_JapaneseSchoolv5/Tiles/GK_JS_Tiles_224.png using Guid(a4ee776a6040afe48893cb2ad36ddcef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f981e77077ce71a6f6ab3e1b40d4f6a') in 0.027549 seconds
+  Import took 0.032233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/GuttyKreum_JapaneseSchoolv5/Tiles/GK_JS_Tiles_232.png
+  artifactKey: Guid(6c04f5f09aeb94442895b3019b4ce4a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_JapaneseSchoolv5/Tiles/GK_JS_Tiles_232.png using Guid(6c04f5f09aeb94442895b3019b4ce4a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a747d102caf84da2d9f59ab293284ab') in 0.021105 seconds
+  Import took 0.025828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/GuttyKreum_JapaneseSchoolv5/Tiles/GK_JS_Tiles_234.png
+  artifactKey: Guid(5ca43bbc1b31c5d4582f824b33d0c948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_JapaneseSchoolv5/Tiles/GK_JS_Tiles_234.png using Guid(5ca43bbc1b31c5d4582f824b33d0c948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e33441816e1a23c77fb0b272598062b0') in 0.012631 seconds
+  Import took 0.016759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/GuttyKreum_JapaneseSchoolv5/Tiles/GK_JS_Tiles_236.png
+  artifactKey: Guid(8eef123cd04d47e45a58e90c0a0c5055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_JapaneseSchoolv5/Tiles/GK_JS_Tiles_236.png using Guid(8eef123cd04d47e45a58e90c0a0c5055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '424aa58782bcd7de3b993dfe8934f317') in 0.027338 seconds
+  Import took 0.031764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/GuttyKreum_JapaneseSchoolv5/Tiles/GK_JS_Tiles_230.png
+  artifactKey: Guid(da7e3de95ed837a4a913a0d748af0e67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_JapaneseSchoolv5/Tiles/GK_JS_Tiles_230.png using Guid(da7e3de95ed837a4a913a0d748af0e67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6da861c62f9fd47e02e59363faa4a274') in 0.020685 seconds
+  Import took 0.024431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/GuttyKreum_JapaneseSchoolv5/Tiles/GK_JS_Tiles_231.png
+  artifactKey: Guid(8abfc26d2f3d1d84dae3f89aee43c147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_JapaneseSchoolv5/Tiles/GK_JS_Tiles_231.png using Guid(8abfc26d2f3d1d84dae3f89aee43c147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3436e081fc38fd1e5f03fae57f964ee') in 0.014209 seconds
+  Import took 0.018120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/GuttyKreum_JapaneseSchoolv5/Tiles/GK_JS_Tiles_228.png
+  artifactKey: Guid(2f35b645cde682844b9ac5743e76e9ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_JapaneseSchoolv5/Tiles/GK_JS_Tiles_228.png using Guid(2f35b645cde682844b9ac5743e76e9ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5211195c3a900d0b80e46360f3d9f32') in 0.015621 seconds
+  Import took 0.019436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/GuttyKreum_JapaneseSchoolv5/Tiles/GK_JS_Tiles_238.png
+  artifactKey: Guid(960c77452ae6db54cae7694b7cf5ee82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_JapaneseSchoolv5/Tiles/GK_JS_Tiles_238.png using Guid(960c77452ae6db54cae7694b7cf5ee82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b213830924625eec823cd21e8bf2ea8c') in 0.018131 seconds
+  Import took 0.022283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/GuttyKreum_JapaneseSchoolv5/Tiles/GK_JS_Tiles_233.png
+  artifactKey: Guid(05b5a4cbc8fa28746ac64a6b9895941a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_JapaneseSchoolv5/Tiles/GK_JS_Tiles_233.png using Guid(05b5a4cbc8fa28746ac64a6b9895941a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe16913f2d8a0dc10eaf733e51ccf8f5') in 0.015092 seconds
+  Import took 0.018306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/GuttyKreum_JapaneseSchoolv5/Tiles/GK_JS_Tiles_229.png
+  artifactKey: Guid(6db992bfc70574f4b84fa8a9dbb225a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_JapaneseSchoolv5/Tiles/GK_JS_Tiles_229.png using Guid(6db992bfc70574f4b84fa8a9dbb225a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49f4e71b69943de6a8b52e2aa90d5823') in 0.018214 seconds
+  Import took 0.021552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/GuttyKreum_JapaneseSchoolv5/Tiles/GK_JS_Tiles_235.png
+  artifactKey: Guid(e3a44be8b0a0aa443af1cce900c21e3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_JapaneseSchoolv5/Tiles/GK_JS_Tiles_235.png using Guid(e3a44be8b0a0aa443af1cce900c21e3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18bc9baff9821d6e1aad316c32b7a3eb') in 0.011052 seconds
+  Import took 0.014231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/GuttyKreum_JapaneseSchoolv5/Tiles/GK_JS_Tiles_226.png
+  artifactKey: Guid(9b1ed2e2beb12b54da7f2549ce34dd26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_JapaneseSchoolv5/Tiles/GK_JS_Tiles_226.png using Guid(9b1ed2e2beb12b54da7f2549ce34dd26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '258126ef6eed89046fd5ef630b58db05') in 0.024999 seconds
+  Import took 0.028703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/GuttyKreum_JapaneseSchoolv5/Tiles/GK_JS_Tiles_237.png
+  artifactKey: Guid(6ee308670353a1c47973bc711777b69e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_JapaneseSchoolv5/Tiles/GK_JS_Tiles_237.png using Guid(6ee308670353a1c47973bc711777b69e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5cd85ffe9d96c324c1cbc0f9df83b70') in 0.017659 seconds
+  Import took 0.021290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/GuttyKreum_JapaneseSchoolv5/Tiles/GK_JS_Tiles_227.png
+  artifactKey: Guid(5fb2f873ffbb57d49a210622739b24c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_JapaneseSchoolv5/Tiles/GK_JS_Tiles_227.png using Guid(5fb2f873ffbb57d49a210622739b24c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63f4c40687d624b1de2615e3c66eb352') in 0.010975 seconds
+  Import took 0.014891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 743.495585 seconds.
+  path: Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters/MaleStudent
+  artifactKey: Guid(539e8d51bff6f1042ab6613a69bb7d40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters/MaleStudent using Guid(539e8d51bff6f1042ab6613a69bb7d40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e9fe22a1f700031727f9fde7e521a71') in 0.008140 seconds
+  Import took 0.014062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.732151 seconds.
+  path: Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters/MaleStudent/Idle
+  artifactKey: Guid(c21fe9569b7b6054ba9b1ddaadbeeb73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters/MaleStudent/Idle using Guid(c21fe9569b7b6054ba9b1ddaadbeeb73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80b3d012bafd7e8d33f7761060ee2cf0') in 0.007629 seconds
+  Import took 0.012274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.061273 seconds.
+  path: Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters/MaleStudent/Idle/Malestudent1.png
+  artifactKey: Guid(1649389ae7ac0d54ba054184220e020c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters/MaleStudent/Idle/Malestudent1.png using Guid(1649389ae7ac0d54ba054184220e020c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb1ff024d05917082e116f6d03b19f99') in 0.013003 seconds
+  Import took 0.017542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters/MaleStudent/Idle/Malestudent4.png
+  artifactKey: Guid(649d03cec34c5cb45b84873e4e85f81a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters/MaleStudent/Idle/Malestudent4.png using Guid(649d03cec34c5cb45b84873e4e85f81a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5747ef5aa2015288f50126aa51bb327b') in 0.013579 seconds
+  Import took 0.017865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000493 seconds.
+  path: Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters/MaleStudent/Idle/Malestudent2.png
+  artifactKey: Guid(1f59396dbfb8e6644b1f2dde91ee8e8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters/MaleStudent/Idle/Malestudent2.png using Guid(1f59396dbfb8e6644b1f2dde91ee8e8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd326ff82767038528590b2ff5ff0a21c') in 0.018587 seconds
+  Import took 0.023089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters/MaleStudent/Idle/Malestudent3.png
+  artifactKey: Guid(89a5fd8dd3722a34ea8a8f894fe68874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters/MaleStudent/Idle/Malestudent3.png using Guid(89a5fd8dd3722a34ea8a8f894fe68874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c19a74bcf1ad86dfb62f7efa62fa101') in 0.018786 seconds
+  Import took 0.022319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.971145 seconds.
+  path: Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters/MaleStudent/Idle/Malestudent1.png
+  artifactKey: Guid(1649389ae7ac0d54ba054184220e020c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters/MaleStudent/Idle/Malestudent1.png using Guid(1649389ae7ac0d54ba054184220e020c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45eafab134a64e9ae234b1bb9c46d904') in 0.023559 seconds
+  Import took 0.027657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.939167 seconds.
+  path: Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters/MaleStudent/Idle/Malestudent3.png
+  artifactKey: Guid(89a5fd8dd3722a34ea8a8f894fe68874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters/MaleStudent/Idle/Malestudent3.png using Guid(89a5fd8dd3722a34ea8a8f894fe68874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cf08fe616a0c6e05c09474c7464bf3f') in 0.013101 seconds
+  Import took 0.016901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001887 seconds.
+  path: Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters/MaleStudent/Idle/Malestudent3.png
+  artifactKey: Guid(89a5fd8dd3722a34ea8a8f894fe68874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters/MaleStudent/Idle/Malestudent3.png using Guid(89a5fd8dd3722a34ea8a8f894fe68874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cf08fe616a0c6e05c09474c7464bf3f') in 0.011266 seconds
+  Import took 0.016732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.781008 seconds.
+  path: Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters/MaleStudent/Idle/Malestudent1.png
+  artifactKey: Guid(1649389ae7ac0d54ba054184220e020c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters/MaleStudent/Idle/Malestudent1.png using Guid(1649389ae7ac0d54ba054184220e020c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc8c8091c4bddab61981326332987dd3') in 0.010165 seconds
+  Import took 0.014971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004673 seconds.
+  path: Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters/MaleStudent/Idle/Malestudent1.png
+  artifactKey: Guid(1649389ae7ac0d54ba054184220e020c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters/MaleStudent/Idle/Malestudent1.png using Guid(1649389ae7ac0d54ba054184220e020c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc8c8091c4bddab61981326332987dd3') in 0.011368 seconds
+  Import took 0.015981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.897311 seconds.
+  path: Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters/MaleStudent/Idle/Malestudent1.png
+  artifactKey: Guid(1649389ae7ac0d54ba054184220e020c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters/MaleStudent/Idle/Malestudent1.png using Guid(1649389ae7ac0d54ba054184220e020c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46b6b848cc39adad11c9ec2a3fa3d14f') in 0.010212 seconds
+  Import took 0.014067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005122 seconds.
+  path: Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters/MaleStudent/Idle/Malestudent1.png
+  artifactKey: Guid(1649389ae7ac0d54ba054184220e020c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters/MaleStudent/Idle/Malestudent1.png using Guid(1649389ae7ac0d54ba054184220e020c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46b6b848cc39adad11c9ec2a3fa3d14f') in 0.010790 seconds
+  Import took 0.015357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.124643 seconds.
+  path: Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters/MaleStudent/Idle/Malestudent3.png
+  artifactKey: Guid(89a5fd8dd3722a34ea8a8f894fe68874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters/MaleStudent/Idle/Malestudent3.png using Guid(89a5fd8dd3722a34ea8a8f894fe68874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '387236146e92a99bfc53bf842afabe75') in 0.012405 seconds
+  Import took 0.015987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007588 seconds.
+  path: Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters/MaleStudent/Idle/Malestudent3.png
+  artifactKey: Guid(89a5fd8dd3722a34ea8a8f894fe68874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuttyKreum_Characterpackv5/Blackoutlinecharacters/MaleStudent/Idle/Malestudent3.png using Guid(89a5fd8dd3722a34ea8a8f894fe68874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '387236146e92a99bfc53bf842afabe75') in 0.012197 seconds
+  Import took 0.016481 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
